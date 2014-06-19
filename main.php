@@ -1,3 +1,3 @@
 <?php
 
-echo 'This is gae-gh project!';
+echo 'This is gae-gh project! New commit.';
